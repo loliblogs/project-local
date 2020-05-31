@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>loli&#39;s project blog</title>
+  
+  
+  <link href="/project/atom.xml" rel="self"/>
+  
+  <link href="http://localhost/project/"/>
+  <updated>2020-05-15T15:44:18.014Z</updated>
+  <id>http://localhost/project/</id>
+  
+  <author>
+    <name>lolifamily</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>查看一个程序是64位还是32位</title>
+    <link href="http://localhost/project/post/see-if-a-program-is-64bit-or-32bit/index.html"/>
+    <id>http://localhost/project/post/see-if-a-program-is-64bit-or-32bit/index.html</id>
+    <published>2018-08-11T10:40:00.000Z</published>
+    <updated>2020-05-15T15:44:18.014Z</updated>
+    
+    <content type="html"><![CDATA[<p>在程序运行的时候推荐使用任务管理器查看进程后是否带有*32（win10就看是否有”32位”）<br>如果是一瞬间就执行完毕（转瞬即逝）的程序，就采取以下办法：</p><ul><li>简化颜色模式：兼容性中降低色彩和分辨率的选项可勾选的就是32位程序，否则是64位程序</li><li>查看文件头法：用二进制软件打开程序在文件头中能找到PE..d的是64位，PE..L的是32位</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;在程序运行的时候推荐使用任务管理器查看进程后是否带有*32（win10就看是否有”32位”）&lt;br&gt;如果是一瞬间就执行完毕（转瞬即逝）的程序，就采取以下办法：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;简化颜色模式：兼容性中降低色彩和分辨率的选项可勾选的就是32位程序，否则是64位程序&lt;/li
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>下载 Google Chrome 离线安装包</title>
+    <link href="http://localhost/project/post/download-google-chrome-standalone-package/index.html"/>
+    <id>http://localhost/project/post/download-google-chrome-standalone-package/index.html</id>
+    <published>2018-08-11T10:39:37.000Z</published>
+    <updated>2020-05-22T12:39:11.710Z</updated>
+    
+    <content type="html"><![CDATA[<p>Chrome 浏览器主页：<a href="https://www.google.cn/chrome/" target="_blank" rel="noopener">https://www.google.cn/chrome/</a><br>参数:<code>standalone=1</code> 指离线安装包，<code>platform=win64</code> 指64位Windows 版本。<br>windows64位地址:<a href="https://www.google.cn/chrome/?standalone=1&platform=win64" target="_blank" rel="noopener">https://www.google.cn/chrome/?standalone=1&amp;platform=win64</a><br>windows32位地址:<a href="https://www.google.cn/chrome/?standalone=1&platform=win" target="_blank" rel="noopener">https://www.google.cn/chrome/?standalone=1&amp;platform=win</a><br>linux地址（只支持64位）：<a href="https://www.google.cn/chrome/?standalone=1&platform=linux" target="_blank" rel="noopener">https://www.google.cn/chrome/?standalone=1&amp;platform=linux</a><br>mac地址：<a href="https://www.google.cn/chrome/?standalone=1&platform=mac" target="_blank" rel="noopener">https://www.google.cn/chrome/?standalone=1&amp;platform=mac</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Chrome 浏览器主页：&lt;a href=&quot;https://www.google.cn/chrome/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.google.cn/chrome/&lt;/a&gt;&lt;br&gt;参数:&lt;code&gt;standal
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>mathjax</title>
+    <link href="http://localhost/project/post/mathjax/index.html"/>
+    <id>http://localhost/project/post/mathjax/index.html</id>
+    <published>2018-06-22T21:13:54.000Z</published>
+    <updated>2020-05-28T15:23:11.139Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://mathjax.github.io/MathJax-demos-web/convert-configuration/convert-configuration.html" target="_blank" rel="noopener">https://mathjax.github.io/MathJax-demos-web/convert-configuration/convert-configuration.html</a></p><a id="more"></a><p>more</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;https://mathjax.github.io/MathJax-demos-web/convert-configuration/convert-configuration.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://mathjax.github.io/MathJax-demos-web/convert-configuration/convert-configuration.html&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="http://localhost/project/categories/hexo/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>concise</title>
+    <link href="http://localhost/project/post/concise/index.html"/>
+    <id>http://localhost/project/post/concise/index.html</id>
+    <published>2018-06-22T21:13:54.000Z</published>
+    <updated>2020-05-15T15:44:18.014Z</updated>
+    
+    <content type="html"><![CDATA[<a id="more"></a><p><a href="/upload/concise.tar.gz">concise</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;p&gt;&lt;a href=&quot;/upload/concise.tar.gz&quot;&gt;concise&lt;/a&gt;&lt;/p&gt;
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="http://localhost/project/categories/hexo/"/>
+    
+    
+      <category term="concise" scheme="http://localhost/project/tags/concise/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>welcome</title>
+    <link href="http://localhost/project/post/welcome/index.html"/>
+    <id>http://localhost/project/post/welcome/index.html</id>
+    <published>2018-04-26T02:30:25.000Z</published>
+    <updated>2020-05-15T15:44:18.014Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
